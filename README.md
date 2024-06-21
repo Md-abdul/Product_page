@@ -8,7 +8,7 @@ This project is a simple e-commerce product page built using React and Chakra UI
 Frontend 
 
 ## Deplolyed App
-Frontend: https://deployed-site.whatever
+Frontend: https://productp3.netlify.app/
 
 ## Directory Structure
     my-app/
@@ -37,7 +37,7 @@ List out the key features of your application.
 
 ## Installation & Getting started
 
-- git clone https://github.com/your-username/your-repo.git
+- git clone https://github.com/Md-abdul/Product_page
 - cd my-app
 - npm install
 - npm run dev
